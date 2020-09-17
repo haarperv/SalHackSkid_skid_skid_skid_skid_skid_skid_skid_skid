@@ -5,7 +5,7 @@ Salhackskid_skid is a forge mod for 1.12.2 that was fork of SalHackSkid, which i
 
  
 ## Installation
-SalHackSkid_skid is a forge mod for `1.12.2` that was based off Salhack. We provide already pre build jar files on our [release page](https://github.com/natan515/SalHackSkid_skid/releases). If you want to have changes before they get officially released check our [CI](https://github.com/natan515/SalHackSkid_skid/actions) out. (It builds a new jar file on every change we make.) To use salhackskid_skid just drop the jar file in your mods folder and start forge. Have fun!
+SalHackSkid_skid is a forge mod for `1.12.2` that was based off Salhack. We provide already pre build jar files on our [release page](https://github.com/natan515/SalHackSkid_skid/releases). If you want to have changes before they get officially released check our [CI](https://github.com/r333mo/SalHackSkid_skid/actions) out. (It builds a new jar file on every change we make.) To use salhackskid_skid just drop the jar file in your mods folder and start forge. Have fun!
 
 **Tip:** You can open the GUI containing all "tweaks" with your left arrow at default (You can change that later.)
 
