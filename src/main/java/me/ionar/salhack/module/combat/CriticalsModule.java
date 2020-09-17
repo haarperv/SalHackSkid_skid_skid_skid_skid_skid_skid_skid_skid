@@ -35,13 +35,14 @@ public class CriticalsModule extends Module
             
             if (l_Packet.getAction() == CPacketUseEntity.Action.ATTACK)
             {
+                                    case Jump:
+                            mc.player.jump();
+                            break;
                 if (l_Packet.getEntityFromWorld(mc.world) instanceof EntityLivingBase && mc.player.onGround && !mc.gameSettings.keyBindJump.isKeyDown())
                 {
                     switch (Mode.getValue())
                     {
-                        case Jump:
-                            mc.player.jump();
-                            break;
+
                         case Packet:
                             mc.player.connection.sendPacket(new CPacketPlayer.Position(mc.player.posX, mc.player.posY + 0.1f, mc.player.posZ, false));
                             mc.player.connection.sendPacket(new CPacketPlayer.Position(mc.player.posX, mc.player.posY, mc.player.posZ, false));
