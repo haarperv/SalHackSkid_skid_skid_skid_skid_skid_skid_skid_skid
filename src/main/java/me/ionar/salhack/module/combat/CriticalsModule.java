@@ -48,6 +48,7 @@ public class CriticalsModule extends Module
                             break;
                         default:
                             break;
+                            //jump before the hit so you will get the crit cus now the second mod is usles. 
                     }
                 }
             }
