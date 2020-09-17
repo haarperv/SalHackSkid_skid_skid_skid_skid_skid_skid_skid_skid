@@ -18,4 +18,4 @@ If you have a bug or want to suggest a feature raise an issue on Github or conta
 Some of the code is pasted and proper credits are not given, but atleast it's open source now? :)
 
 
-Created originaly by `ionar2` and many [others](https://github.com/ionar2/salhack/graphs/contributors). If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+Created originaly by `ionar2` but today there are 3 people that keep it running(salhackskid_skid) r333mo, Bob Greg and natan515.
