@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © 2020 ionar2
+Copyright © 2020 r333mo
 
 All code is licensed under MIT unless it has it's own copyright, such as the Minecraft Forge code and KAMI Blue's code, and code from KAMI is licensed under LGPLv2.1 / LGPLv3, respectively.
 Permission is hereby granted, free of charge, to any person
